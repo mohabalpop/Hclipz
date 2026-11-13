@@ -1,1 +1,1 @@
-latino-vanilla-duplicate-experiment.trycloudflare.com
+seasonal-benchmark-foo-fwd.trycloudflare.com
